@@ -1,4 +1,4 @@
-# Stock Market Analysis Visualization
+# Stock Market Analysis and Visualization
 
 This repository hosts a Python project for stock market data analysis and visualization. It uses the Alpha Vantage API to fetch historical stock prices and applies various data analysis techniques to extract insights, which are then visualized using static and interactive plots.
 
